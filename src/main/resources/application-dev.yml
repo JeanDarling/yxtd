@@ -6,7 +6,6 @@ server:
   #配置tomcat
   tomcat:
     max-threads: 300
-    max-http-post-size: 10240000
     max-connections: 20000
 #连接池
 spring:
